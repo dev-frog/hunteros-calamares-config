@@ -1,0 +1,1 @@
+# Calamares config 
